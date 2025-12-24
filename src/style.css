@@ -1,0 +1,30 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+p {
+  display: inline;
+  font-family: Manrope, Noto Sans Armenian, sans-serif;
+}
+
+
+#top-header {
+  width: 100vw;
+  justify-content: space-around;
+  border-bottom: 0.5px solid rgb(228, 228, 228);
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+#bzn {
+  color: rgb(90, 89, 89);
+  margin-left: 10px;
+  font-size: 12px;
+}
+
+#anh {
+  border-bottom: 2px solid #7ce00b;
+  padding-bottom: 10px;
+}
