@@ -28,3 +28,11 @@ p {
   border-bottom: 2px solid #7ce00b;
   padding-bottom: 10px;
 }
+#contacts{
+  display: flex;
+  flex-direction: row;
+}
+#four{
+  margin-left: 5px;
+  color: #505350;
+}
