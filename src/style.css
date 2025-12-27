@@ -6,12 +6,14 @@
 p {
   display: inline;
   font-family: Manrope, Noto Sans Armenian, sans-serif;
+  cursor: pointer;
+  
 }
 
 
 #top-header {
   width: 100vw;
-  justify-content: space-around;
+  justify-content: space-between;
   border-bottom: 0.5px solid rgb(228, 228, 228);
   height: 40px;
   display: flex;
@@ -27,12 +29,15 @@ p {
 #anh {
   border-bottom: 2px solid #7ce00b;
   padding-bottom: 10px;
+  font-size: 14px
+}
+#category{
+  padding-left: 80px;
 }
 #contacts{
   display: flex;
   flex-direction: row;
-}
-#four{
-  margin-left: 5px;
   color: #505350;
+  font-size: 14px;
+  padding-right: 100px;
 }
